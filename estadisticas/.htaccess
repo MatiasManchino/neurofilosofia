@@ -1,0 +1,4 @@
+AuthName "Ingrese su clave"
+AuthType Basic
+AuthUserFile /users/webs/neurofilosofia.com.ar/htdocs/estadisticas/.htpasswd
+Require valid-user

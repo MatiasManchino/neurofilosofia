@@ -1,0 +1,64 @@
+@font-face {
+  font-family:crimson1;
+  src:url(../fuente/crimson/crimsontext-1.ttf);
+}
+
+@font-face {
+  font-family:crimson2;
+  src:url(../fuente/crimson/crimsontext-2.ttf);
+}
+
+@font-face {
+  font-family:crimson3;
+  src:url(../fuente/crimson/crimsontext-3.ttf);
+}
+
+@font-face {
+  font-family:crimson4;
+  src:url(../fuente/crimson/crimsontext-4.ttf);
+}
+
+@font-face {
+  font-family:crimson5;
+  src:url(../fuente/crimson/crimsontext-5.ttf);
+}
+
+@font-face {
+  font-family:crimson6;
+  src:url(../fuente/crimson/crimsontext-6.ttf);
+}
+
+@font-face {
+  font-family:libre1;
+  src:url(../fuente/libre/libre1.ttf);
+}
+
+@font-face {
+  font-family:libre2;
+  src:url(../fuente/libre/libre2.ttf);
+}
+
+@font-face {
+  font-family:libre3;
+  src:url(../fuente/libre/libre3.ttf);
+}
+
+@font-face {
+  font-family:PT1;
+  src:url(../fuente/PT/pt1.ttf);
+}
+
+@font-face {
+  font-family:PT2;
+  src:url(../fuente/PT/pt2.ttf);
+}
+
+@font-face {
+  font-family:PT3;
+  src:url(../fuente/PT/pt3.ttf);
+}
+
+@font-face {
+  font-family:PT4;
+  src:url(../fuente/PT/pt4.ttf);
+}

@@ -1,0 +1,2944 @@
+# Webalizer V2.21-02 Incremental Data - 05/18/2021 21:08:26
+2021 5 18 21 8 26
+2794 1418 676 40 51 232 111953738 894 562 0
+52 11 89 1 18
+101 63 6291874 42 25 24
+115 57 8961793 53 38 29
+218 112 10212225 64 77 43
+211 85 4664907 65 51 40
+230 95 10330662 50 94 41
+103 63 4678257 47 23 22
+187 90 6166876 55 66 38
+131 62 3287014 49 31 20
+124 93 2925188 44 57 29
+301 118 7177728 67 61 46
+114 60 3512569 57 38 25
+125 48 2271999 38 51 29
+115 73 9637401 57 31 29
+98 75 6767246 42 26 26
+166 75 4568821 54 65 29
+165 98 4776415 57 77 35
+167 79 11093697 63 45 30
+123 72 4629066 52 38 27
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+101 48 3477530 33
+147 85 2080905 63
+69 51 3082500 19
+82 35 4283128 34
+84 37 5650342 34
+78 44 3797519 31
+104 54 2084318 33
+112 63 2414301 40
+126 79 5098207 35
+100 60 3184400 31
+182 54 3684316 75
+133 38 5370558 63
+104 26 6132909 49
+114 55 3174405 37
+138 78 6617384 34
+128 63 5385072 24
+140 88 9308389 30
+150 100 6508467 49
+112 54 3908703 40
+149 95 14154847 24
+107 51 2223166 34
+136 49 2840785 22
+111 58 4445528 37
+87 53 3046059 23
+0
+0
+0
+1418
+0
+0
+0
+0
+0
+47
+0
+0
+0
+0
+31
+0
+0
+127
+0
+0
+44
+1127
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/textos/La unidad de la mente extendida.pdf
+0 1 7165064279425548288 130278 0 0
+/
+0 393 7237128952348572004 2656115 364 90
+/Materialdidactico/Programa de Trabajos Practicos.pdf
+0 7 7810776870604254514 2797626 0 0
+/textos/Disciplinas filosóficas.pdf
+0 122 8317993971942319474 5511284 0 0
+/textos/Verdad y portadores de verdad en una.pdf
+0 4 7166742569779819566 504804 0 0
+/textos/Plasticidad neuronal, verdad y lógica.pdf
+0 4 7596835273554800184 525192 0 0
+/cv.html
+0 23 3615880547251664945 106238 13 4
+/js/bootstra.min.js
+0 82 8028792235694751744 4156580 0 0
+/css/fonts/icomoon.ttf
+0 70 8386947635138213422 246120 0 0
+/css/rs_font.css
+0 77 0 99022 0 0
+/textos/La justicia y el concepto.pdf
+0 2 0 197654 0 0
+/textos/Vaca.pdf
+0 1 0 0 0 0
+/textos/El sujeto cognoscente.pdf
+0 3 0 256598 0 0
+/neurofi.html
+0 32 0 267750 18 10
+/Materialdidactico/Programa de Trabajos Practicos1999.pdf
+0 6 0 3180486 0 0
+/css/bootstrap.css
+0 80 0 15123600 0 0
+/imagenes/nueva.jpg
+0 15 0 6988695 0 0
+/css/style.css
+0 80 0 104320 0 0
+/js/bootstrap.js
+0 85 0 10713740 0 0
+/reflex.html
+0 24 0 104972 10 6
+/textos/Mente, fisiología y computación.pdf
+0 10 0 1383378 0 0
+/js/jquery-3.2.1.slim.min.js
+0 82 0 5706954 0 0
+/textos/Neonaturalismo epistemologico.pdf
+0 2 0 76553 0 0
+/textos/Criterios epistémicos no proposicionales.pdf
+0 2 0 187514 0 0
+/tesis.html
+0 27 0 118846 7 11
+/textos/Phrónimos conexionista.pdf
+0 1 0 143013 0 0
+/js/popper.min.js
+0 81 0 1541592 0 0
+/tesis.pdf
+0 40 0 26572821 0 0
+/neurofi.htm
+0 29 0 240975 24 12
+/cv.pdf
+0 6 0 2252130 0 0
+/textos/La verdad en un realismo epistemológico naturalista.pdf
+0 1 0 63302 0 0
+/textos/El epistemólogo y las neurociencias.pdf
+0 9 0 1320781 0 0
+/textos/Buscando el sentido.pdf
+0 2 0 148630 0 0
+/Materialdidactico/METODOLOGIA DE LA INVESTIGACIÓN.pdf
+0 3 0 796944 0 0
+/textos/Las actitudes intencionales.pdf
+0 16 0 801840 0 0
+/otros.html
+0 23 0 176396 9 4
+/textos/El monstruo neuronal.pdf
+0 3 0 334144 0 0
+/textos/John Ruskin y la Neuroeconomía.pdf
+0 3 0 530118 0 0
+/textos/Garay etica y desarrollo humano 2016.pdf
+0 34 0 13620540 0 0
+/Materialdidactico/Conocimiento a priori en Kant.pdf
+0 11 0 1870254 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-54-36-148-93.a.ahrefs.com
+0 2 1 7194 1 1620478818
+/
+89-84-32-193.abo.bbox.fr
+0 1 1 0 1 1620194633
+/
+crawl24.bl.semrush.com
+0 1 0 299 0 0
+-
+ipv4-64-246-178-34.greenhousedata.net
+0 2 1 7198 1 1620695729
+/
+ec2-52-65-15-196.ap-southeast-2.compute.amazonaws.com
+0 13 0 4147 2 1621037039
+/
+host245.190-137-239.telecom.net.ar
+0 1 1 47553 0 0
+-
+192.141.245.164
+0 1 1 47553 0 0
+-
+host180.181-91-246.telecom.net.ar
+0 2 1 47849 0 0
+-
+ns573200.ip-192-99-5.net
+0 4 2 14392 1 1621208747
+/
+dsl-187-225-72-203-dyn.prod-infinitum.com.mx
+0 2 1 47849 0 0
+-
+ip-54-36-148-224.a.ahrefs.com
+0 1 1 6899 1 1621245097
+/
+ip-54-36-148-98.a.ahrefs.com
+0 2 0 594 0 0
+-
+ip-54-36-148-167.a.ahrefs.com
+0 1 1 6899 1 1620006525
+/
+190.5.221.208
+0 1 1 47553 0 0
+-
+ip-54-36-149-50.a.ahrefs.com
+0 1 0 299 0 0
+-
+196.196.31.225
+0 2 2 11470 1 1621183661
+/tesis.html
+181.197.54.168
+0 2 1 47849 0 0
+-
+server.progressivecybernetics.com
+0 1 0 313 1 1620197955
+/
+200.105.67.187.fibercorp.com.ar
+0 1 1 47553 0 0
+-
+vps-490b3e69.vps.ovh.ca
+0 2 0 602 0 0
+-
+petalbot-114-119-132-76.petalsearch.com
+0 1 0 295 0 0
+-
+petalbot-114-119-144-55.petalsearch.com
+0 1 0 295 0 0
+-
+mail.kedirikota.go.id
+0 1 0 301 0 0
+-
+92x255x198x132.static-customer.kzn.ertelecom.ru
+0 4 2 14380 2 1620402114
+/
+ip-54-36-148-229.a.ahrefs.com
+0 1 1 6899 1 1619973816
+/
+ec2-54-212-180-152.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620178653
+/
+cpe-181-46-68-12.telecentro-reversos.com.ar
+0 3 3 142659 0 0
+-
+ec2-35-181-43-92.eu-west-3.compute.amazonaws.com
+0 1 1 6899 1 1620136950
+/
+prod-nyc3-2.qencode-encoder-4d52c500ad2311ebab6062b78d0049ec
+0 1 1 6899 1 1620118353
+/
+ninja-crawler113.webmeup.com
+0 35 20 131641 6 1621345670
+-
+petalbot-114-119-155-1.petalsearch.com
+0 1 0 295 0 0
+-
+petalbot-114-119-155-223.petalsearch.com
+0 1 0 295 0 0
+-
+petalbot-114-119-140-239.petalsearch.com
+0 1 0 295 0 0
+-
+ip-54-36-148-28.a.ahrefs.com
+0 1 1 6899 1 1621196382
+/
+ec2-18-136-72-135.ap-southeast-1.compute.amazonaws.com
+0 7 1 8734 1 1621215220
+/
+ip-54-36-148-250.a.ahrefs.com
+0 1 1 6899 1 1621089836
+/
+ec2-54-186-4-158.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620610056
+/
+25.162.77.34.bc.googleusercontent.com
+0 1 1 6899 1 1621326530
+/
+152.231.27.155
+0 3 1 208398 0 0
+-
+cpe-181-46-139-223.telecentro-reversos.com.ar
+0 2 1 47849 0 0
+-
+petalbot-114-119-157-193.petalsearch.com
+0 1 0 295 0 0
+-
+static.243.102.76.144.clients.your-server.de
+0 5 0 1480 4 1620732935
+-
+ec2-34-210-32-111.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1619832415
+/
+ip-54-36-148-9.a.ahrefs.com
+0 1 1 6899 1 1620641751
+/
+petalbot-114-119-138-179.petalsearch.com
+0 1 0 295 0 0
+-
+186.141.229.222
+0 1 1 47553 0 0
+-
+customer-tln-public-cgn-90-142.megared.net.mx
+0 2 1 47849 0 0
+-
+msnbot-40-77-167-61.search.msn.com
+0 5 4 190009 0 0
+-
+69.12.72.188.static.quadranet.com
+0 1 1 6899 1 1620202272
+/
+cpe-001178706293.cpe.cableonda.net
+0 2 1 188979 0 0
+-
+fetcher2-5.go.mail.ru
+0 1 1 6899 1 1620818408
+/
+62-210-180-176.rev.poneytelecom.eu
+0 20 3 26065 1 1620493666
+/
+199.187.126.42
+0 1 1 6899 1 1619925371
+/
+msnbot-207-46-13-146.search.msn.com
+0 2 0 590 0 0
+-
+ip-72-167-222-102.ip.secureserver.net
+0 1 0 301 0 0
+-
+msnbot-157-55-39-100.search.msn.com
+0 1 0 296 1 1621309078
+-
+225-109-169-181.fibertel.com.ar
+0 2 1 47849 0 0
+-
+msnbot-40-77-167-2.search.msn.com
+0 1 1 143013 0 0
+-
+199.244.88.132
+0 3 3 0 3 1621161584
+/
+ip-54-36-148-123.a.ahrefs.com
+0 1 0 295 0 0
+-
+ip-54-36-148-171.a.ahrefs.com
+0 1 1 6899 1 1621321906
+/
+158.red-176-80-112.dynamicip.rima-tde.net
+0 11 1 12037 1 1620816388
+/neurofi.htm
+ec2-35-180-147-121.eu-west-3.compute.amazonaws.com
+0 6 0 1913 1 1620655084
+/
+ec2-13-48-53-51.eu-north-1.compute.amazonaws.com
+0 6 0 1875 1 1620634430
+/
+petalbot-114-119-128-58.petalsearch.com
+0 1 0 295 0 0
+-
+petalbot-114-119-140-50.petalsearch.com
+0 1 0 295 0 0
+-
+145.39.52.179.d.dyn.claro.net.do
+0 2 1 47849 0 0
+-
+ec2-54-187-24-99.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620696985
+/
+ip-54-36-148-128.a.ahrefs.com
+0 1 1 6899 1 1620463347
+/
+200.4.253.250
+0 2 1 47849 0 0
+-
+ec2-13-233-73-212.ap-south-1.compute.amazonaws.com
+0 6 1 8411 1 1620140771
+/
+ip-54-36-149-11.a.ahrefs.com
+0 1 1 6899 1 1619869645
+/
+client-201.230.37.85.speedy.net.pe
+0 2 1 208102 0 0
+-
+client.fttb.2day.kz
+0 4 2 14380 2 1620026158
+/
+103.57.222.214
+0 1 0 301 0 0
+-
+ec2-34-218-41-137.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620005364
+/
+89.128.178.114
+0 2 1 208102 0 0
+-
+181-189-170-81.cepanet.com.ar
+0 2 1 47849 0 0
+-
+ip-54-36-148-238.a.ahrefs.com
+0 1 1 6899 1 1620810531
+/
+ip-54-36-148-101.a.ahrefs.com
+0 1 1 6899 1 1620677473
+/
+29.130.96.34.bc.googleusercontent.com
+0 1 0 318 1 1620367102
+/
+217.217.12.13.dyn.user.ono.com
+0 2 1 53752 0 0
+-
+92.63.196.29
+0 10 0 3011 0 0
+-
+186-4-79-183.rsonet.com.ar
+0 2 1 47849 0 0
+-
+msnbot-207-46-13-6.search.msn.com
+0 4 0 1180 0 0
+-
+petalbot-114-119-141-42.petalsearch.com
+0 1 0 295 0 0
+-
+14.225.8.183
+0 1 0 301 0 0
+-
+1.192.192.8
+0 1 1 6899 1 1620190041
+/
+petalbot-114-119-153-25.petalsearch.com
+0 1 0 295 0 0
+-
+ip-54-36-148-85.a.ahrefs.com
+0 2 1 7194 1 1620864856
+/
+dsl-189-250-35-125-dyn.prod-infinitum.com.mx
+0 2 1 47849 0 0
+-
+customer-190-5-183-246.megacable.com.ar
+0 2 1 47849 0 0
+-
+209.120.227.2
+0 1 0 334 0 0
+-
+186.65.108.251
+0 2 1 47849 0 0
+-
+186.65.108.253
+0 2 1 47849 0 0
+-
+crawl-66-249-73-114.googlebot.com
+0 3 1 54045 1 1620647354
+/
+shell-networks.host
+0 1 0 301 0 0
+-
+msnbot-207-46-13-182.search.msn.com
+0 6 1 132834 2 1621049160
+-
+ip-54-36-148-159.a.ahrefs.com
+0 1 1 6899 1 1620872441
+/
+20.191.45.212
+0 2 1 7195 1 1620525228
+/
+wordpress01.hostingraja.org
+0 1 0 301 0 0
+-
+srv228-vps-st.jino.ru
+0 1 0 301 0 0
+-
+ip-54-36-149-90.a.ahrefs.com
+0 1 0 295 0 0
+-
+186.12.116.13
+0 1 1 47553 0 0
+-
+crawl-66-249-70-98.googlebot.com
+0 1 0 288 1 1620726229
+/
+190.236.24.41
+0 1 1 526339 0 0
+-
+unite-sweep.chaycrop.com
+0 1 1 6899 1 1621117159
+/
+host136.181-5-204.telecom.net.ar
+0 1 1 47553 0 0
+-
+ip-168-119-68-249.a.ahrefs.com
+0 72 72 4144626 0 0
+-
+ip-54-36-148-15.a.ahrefs.com
+0 2 2 15824 2 1621346201
+/
+ec2-34-236-55-223.compute-1.amazonaws.com
+0 2 0 644 0 0
+-
+186.190.155.60
+0 2 1 47849 0 0
+-
+ip-195-154-122-216.a.ahrefs.com
+0 96 96 5526168 0 0
+-
+ip-54-36-148-132.a.ahrefs.com
+0 1 1 6899 1 1620454602
+/
+msnbot-207-46-13-31.search.msn.com
+0 8 4 91309 4 1621283776
+/neurofi.html
+101.36.112.83
+0 88 5 54196 1 1620210628
+-
+li1287-30.members.linode.com
+0 11 2 16464 1 1620845888
+-
+ec2-18-194-196-202.eu-central-1.compute.amazonaws.com
+0 6 1 8411 1 1620641153
+/
+petalbot-114-119-135-73.petalsearch.com
+0 1 0 295 0 0
+-
+174.245.151.178.triolan.net
+0 4 2 14392 1 1620606518
+/
+11.187.255.148.d.dyn.claro.net.do
+0 1 1 526339 0 0
+-
+ip-54-36-148-68.a.ahrefs.com
+0 1 1 6899 1 1620780241
+/
+ip-168-119-65-116.a.ahrefs.com
+0 32 32 1842056 0 0
+-
+77-88-5-245.spider.yandex.com
+0 3 2 14093 2 1620579179
+/
+98-220-102-191.internet.directv.com.co
+0 2 1 1453333 0 0
+-
+ip-54-36-149-20.a.ahrefs.com
+0 1 0 299 0 0
+-
+ec2-34-236-18-197.compute-1.amazonaws.com
+0 1 0 323 0 0
+-
+ip-54-36-148-185.a.ahrefs.com
+0 1 1 4829 1 1620340848
+/cv.html
+ec2-34-219-192-139.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620178729
+/
+ec2-34-217-125-241.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620869975
+/
+ec2-35-183-60-188.ca-central-1.compute.amazonaws.com
+0 12 0 3740 2 1620139736
+/
+vps-50829d3e.vps.ovh.net
+0 2 0 584 2 1620692784
+/
+ip-54-36-149-25.a.ahrefs.com
+0 1 1 6899 1 1620992404
+/
+82-125-137-186.fibertel.com.ar
+0 2 1 47849 0 0
+-
+msnbot-40-77-167-59.search.msn.com
+0 13 1 210446 9 1621259923
+-
+152.172.227.149
+0 2 1 47849 0 0
+-
+li1629-38.members.linode.com
+0 1 1 6899 1 1620210499
+/
+47.254.90.76
+0 2 0 642 0 0
+-
+petalbot-114-119-157-123.petalsearch.com
+0 1 0 295 0 0
+-
+cpe-181-46-175-222.telecentro-reversos.com.ar
+0 2 1 47849 0 0
+-
+host85.181-9-165.telecom.net.ar
+0 2 2 95106 0 0
+-
+ip-54-36-148-46.a.ahrefs.com
+0 1 1 6899 1 1620314039
+/
+host-181-199-58-91.ecua.net.ec
+0 2 1 47849 0 0
+-
+crawl1.bl.semrush.com
+0 2 0 599 0 0
+-
+vps-247191e6.vps.ovh.net
+0 1 0 298 0 0
+-
+petalbot-114-119-143-185.petalsearch.com
+0 1 0 295 0 0
+-
+9.130.96.34.bc.googleusercontent.com
+0 1 0 318 1 1620187589
+/
+77-88-5-172.spider.yandex.com
+0 2 2 13798 1 1620733594
+/
+client-201.240.116.105.speedy.net.pe
+0 1 1 188683 0 0
+-
+petalbot-114-119-138-235.petalsearch.com
+0 1 0 293 1 1620886872
+-
+27.115.124.6
+0 3 3 127186 1 1620157389
+/
+181.115.131.209
+0 1 1 47553 0 0
+-
+ip-54-36-149-51.a.ahrefs.com
+0 1 1 6899 1 1620689651
+/
+30.214.66.34.bc.googleusercontent.com
+0 31 2 22211 2 1621083001
+-
+crawl36.bl.semrush.com
+0 3 0 893 1 1620136457
+-
+93.158.91.201
+0 1 0 295 0 0
+-
+93.158.91.207
+0 1 0 292 0 0
+-
+159.89.51.3
+0 1 1 6899 1 1619880277
+/
+ip-54-36-149-56.a.ahrefs.com
+0 2 2 13798 2 1620230615
+/
+ip-54-36-148-0.a.ahrefs.com
+0 1 0 299 0 0
+-
+ip-54-36-148-72.a.ahrefs.com
+0 1 1 6899 1 1620649889
+/
+customer-tln-public-cgn-93-83.megared.net.mx
+0 2 1 47849 0 0
+-
+191.84.236.123
+0 11 10 933626 1 1620407962
+/
+host-66-128-241-174.united.net
+0 1 1 6899 1 1619947287
+/
+121.5.145.96
+0 1 1 6899 1 1620582145
+/
+odedi65456.mywhc.ca
+0 1 0 291 1 1621171176
+-
+ip-54-36-148-77.a.ahrefs.com
+0 1 1 6899 1 1619943274
+/
+185.81.157.172
+0 1 0 294 1 1620102322
+/
+ip-54-36-148-146.a.ahrefs.com
+0 1 1 6899 1 1620395158
+/
+ip-54-36-148-251.a.ahrefs.com
+0 1 1 6899 1 1620495931
+/
+qwantbot-65-162-242-91.qwant.com
+0 2 1 130573 0 0
+-
+ip-54-36-148-194.a.ahrefs.com
+0 2 1 5128 1 1620978581
+/cv.html
+crawl14.bl.semrush.com
+0 1 1 4829 1 1621332818
+/cv.html
+10.130.96.34.bc.googleusercontent.com
+0 1 1 6899 1 1620741304
+/
+bluedns.maroonhost.net
+0 1 0 301 0 0
+-
+petalbot-114-119-131-182.petalsearch.com
+0 1 0 295 0 0
+-
+ec2-35-161-242-31.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1621214616
+/
+fetcher15-4.go.mail.ru
+0 1 0 296 0 0
+-
+fetcher3-2.go.mail.ru
+0 1 1 6899 1 1620920554
+/
+sh-whm-me1-2.csau.com.au
+0 1 0 301 0 0
+-
+petalbot-114-119-132-68.petalsearch.com
+0 1 0 295 0 0
+-
+ip-54-36-149-34.a.ahrefs.com
+0 1 0 299 0 0
+-
+85.31.130.208
+0 55 5 60185 5 1620318328
+/neurofi.htm
+ec2-54-244-105-158.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620854863
+/
+93.158.91.234
+0 1 1 6899 1 1620266528
+/
+host207.248.194.82.dynamic.pacificonet.cl
+0 2 1 131594 0 0
+-
+fetcher15-7.go.mail.ru
+0 1 1 6899 1 1619960541
+/
+ip-54-36-149-39.a.ahrefs.com
+0 2 1 7194 1 1621171913
+/
+google-proxy-66-249-83-62.google.com
+0 1 0 296 0 0
+-
+181.115.248.216
+0 10 9 469735 1 1620335384
+/neurofi.html
+181-177-62-91.fiberway.com.ar
+0 2 1 47849 0 0
+-
+crawl32.bl.semrush.com
+0 1 0 296 0 0
+-
+ec2-13-209-28-104.ap-northeast-2.compute.amazonaws.com
+0 13 0 4195 2 1621232442
+/
+host120.181-99-129.telecom.net.ar
+0 2 1 47849 0 0
+-
+77-88-5-241.spider.yandex.com
+0 1 0 295 0 0
+-
+ip-54-36-148-129.a.ahrefs.com
+0 1 1 6899 1 1620999976
+/
+static.83.94.46.78.clients.your-server.de
+0 3 0 884 2 1620732979
+-
+ip-54-36-148-234.a.ahrefs.com
+0 1 0 295 0 0
+-
+msnbot-207-46-13-38.search.msn.com
+0 18 9 667803 6 1621284895
+/neurofi.htm
+msnbot-40-77-167-42.search.msn.com
+0 2 0 594 0 0
+-
+crawl-66-249-79-46.googlebot.com
+0 3 3 831344 0 0
+-
+petalbot-114-119-146-12.petalsearch.com
+0 5 4 22543 5 1621053486
+/reflex.html
+fwdproxy-frc-042.fbsv.net
+0 1 1 8925 1 1620797917
+/neurofi.htm
+170.80.93.208
+0 1 1 47553 0 0
+-
+195.red-83-47-201.dynamicip.rima-tde.net
+0 6 3 161256 0 0
+-
+host-177-232-88-6.static.metrored.net.mx
+0 8 5 506496 0 0
+-
+ip-54-36-148-33.a.ahrefs.com
+0 1 0 299 0 0
+-
+186.148.192.139
+0 12 12 4534798 0 0
+-
+msnbot-40-77-167-51.search.msn.com
+0 2 0 590 0 0
+-
+ec2-13-228-104-57.ap-southeast-1.compute.amazonaws.com
+0 1 0 323 0 0
+-
+ip-153-239-219-201.wom.cl
+0 9 9 2230744 0 0
+-
+crawl-66-249-64-48.googlebot.com
+0 43 33 4870874 7 1621177530
+/
+ec2-52-88-237-26.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620091455
+/
+45.11.229.12
+0 1 1 6899 1 1620258963
+/
+ip-54-36-148-107.a.ahrefs.com
+0 2 2 13798 2 1621121841
+/
+vps-3e1324ab.vps.ovh.net
+0 2 0 596 0 0
+-
+179.148.7.186.f.dyn.claro.net.do
+0 1 1 526339 0 0
+-
+ip-54-36-148-212.a.ahrefs.com
+0 1 1 6899 1 1620702330
+/
+crawl-66-249-66-50.googlebot.com
+0 10 6 254978 3 1620491797
+-
+ec2-18-184-155-204.eu-central-1.compute.amazonaws.com
+0 6 1 8411 1 1620112684
+/
+static.88.68.76.144.clients.your-server.de
+0 13 8 55101 2 1620421922
+-
+167.99.225.124
+0 1 0 301 0 0
+-
+38.79.86.34
+0 1 1 6899 1 1620234625
+/
+sg3plcpnl0183.prod.sin3.secureserver.net
+0 1 1 6899 1 1620995210
+/
+121.5.103.58
+0 2 2 25931 1 1620664396
+/
+27.115.124.101
+0 4 4 800034 0 0
+-
+gator3078.hostgator.com
+0 1 0 294 1 1620938056
+-
+ip-168-119-68-245.a.ahrefs.com
+0 8 8 460514 0 0
+-
+ip-54-36-148-11.a.ahrefs.com
+0 2 1 7194 1 1620613413
+/
+26.231.94.34.bc.googleusercontent.com
+0 19 3 25750 1 1620419709
+/
+ec2-18-229-73-207.sa-east-1.compute.amazonaws.com
+0 2 0 646 0 0
+-
+32.162.77.34.bc.googleusercontent.com
+0 1 1 6899 1 1619842371
+/
+ec2-99-79-67-91.ca-central-1.compute.amazonaws.com
+0 1 1 0 1 1621362931
+/
+ec2-34-223-94-63.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620697690
+/
+crawl-66-249-64-52.googlebot.com
+0 40 13 3807342 13 1621245787
+-
+dsl-187-208-222-150-dyn.prod-infinitum.com.mx
+0 1 1 526339 0 0
+-
+128.199.187.225
+0 2 0 602 0 0
+-
+195-51-170-181.fibertel.com.ar
+0 2 1 1453333 0 0
+-
+ns3138484.ip-51-77-52.eu
+0 1 1 6899 1 1621098334
+/
+petalbot-114-119-151-80.petalsearch.com
+0 1 0 295 0 0
+-
+74.208.244.141
+0 1 0 318 1 1620342685
+/
+ec2-54-213-12-247.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620264334
+/
+179.6.34.155
+0 2 1 47849 0 0
+-
+ec2-54-201-52-93.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620522818
+/
+ip-54-36-148-138.a.ahrefs.com
+0 1 0 295 0 0
+-
+ec2-44-232-152-34.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620090750
+/
+petalbot-114-119-131-105.petalsearch.com
+0 3 3 22679 3 1621136546
+/neurofi.htm
+ip-54-36-149-26.a.ahrefs.com
+0 1 0 299 0 0
+-
+host-39-181-141-192.upcdigital.net.ar
+0 2 1 47849 0 0
+-
+ec2-52-36-114-241.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620091699
+/
+224.222.3.200.ros.express.com.ar
+0 1 1 47553 0 0
+-
+dondabal.live
+0 1 0 301 0 0
+-
+fetcher14-6.go.mail.ru
+0 1 0 296 0 0
+-
+fetcher2-4.go.mail.ru
+0 1 1 6899 1 1621335189
+/
+petalbot-114-119-146-100.petalsearch.com
+0 1 0 295 0 0
+-
+200-127-24-46.cab.prima.net.ar
+0 2 1 47849 0 0
+-
+ip-54-36-148-47.a.ahrefs.com
+0 1 1 6899 1 1620385305
+/
+191-81-166-229.speedy.com.ar
+0 1 1 47553 0 0
+-
+ip-54-36-148-221.a.ahrefs.com
+0 1 0 299 0 0
+-
+ip-54-36-148-164.a.ahrefs.com
+0 1 1 6899 1 1619894961
+/
+100.31.17.95.dynamic.jazztel.es
+0 3 1 54048 0 0
+-
+msnbot-207-46-13-61.search.msn.com
+0 7 0 1773 2 1620571100
+/
+ec2-54-188-200-57.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620955786
+/
+45.173.218.185
+0 2 1 47849 0 0
+-
+static.masmovil.com
+0 3 1 54048 0 0
+-
+60.93.247.35.bc.googleusercontent.com
+0 1 0 297 0 0
+-
+170.106.111.170
+0 1 0 301 0 0
+-
+petalbot-114-119-129-175.petalsearch.com
+0 1 0 295 0 0
+-
+petalbot-114-119-134-206.petalsearch.com
+0 7 2 10873 6 1621226192
+-
+host219.201-253-41.telecom.net.ar
+0 2 2 95106 0 0
+-
+ip-54-36-148-226.a.ahrefs.com
+0 1 1 6899 1 1620361712
+/
+91.241.19.182
+0 1 1 6899 1 1620434855
+/
+ip-54-36-148-169.a.ahrefs.com
+0 1 1 6899 1 1621284655
+/
+190.124.62.177
+0 2 1 47849 0 0
+-
+207.136.12.46
+0 1 0 300 0 0
+-
+crawl39.bl.semrush.com
+0 1 0 295 0 0
+-
+msnbot-207-46-13-30.search.msn.com
+0 5 0 0 0 0
+-
+ec2-18-237-44-55.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620178465
+/
+95.94.225.35.bc.googleusercontent.com
+0 1 0 301 0 0
+-
+static.77.50.251.148.clients.your-server.de
+0 1 0 294 1 1620943406
+-
+ip-54-36-148-25.a.ahrefs.com
+0 1 1 6899 1 1621156879
+/
+customer-qro-cgn-142-198.megared.net.mx
+0 2 1 1453333 0 0
+-
+186-58-215-158.speedy.com.ar
+0 2 1 47849 0 0
+-
+190.239.58.230
+0 2 1 47849 0 0
+-
+ec2-54-185-208-42.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620955772
+/
+customer-189-217-34-237.cablevision.net.mx
+0 2 1 526635 0 0
+-
+ec2-35-165-116-115.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620609517
+/
+host136.190-137-52.telecom.net.ar
+0 1 1 47553 0 0
+-
+ec2-54-165-200-211.compute-1.amazonaws.com
+0 1 1 47553 0 0
+-
+134-223-137-186.fibertel.com.ar
+0 2 1 530377 0 0
+-
+petalbot-114-119-138-100.petalsearch.com
+0 1 0 295 0 0
+-
+ec2-54-244-74-60.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621043597
+/
+dsl-187-146-98-162-dyn.prod-infinitum.com.mx
+0 1 1 126201 0 0
+-
+168.197.45.16
+0 2 1 47849 0 0
+-
+92.118.160.9.netsystemsresearch.com
+0 1 0 319 1 1620018226
+/
+203.133.180.30
+0 1 1 465913 0 0
+-
+v454759.hosted-by-vdsina.ru
+0 3 1 7484 1 1621144862
+/
+203.133.180.34
+0 1 1 465913 0 0
+-
+crawl-66-249-79-43.googlebot.com
+0 1 1 188683 0 0
+-
+crawl17.bl.semrush.com
+0 1 0 299 0 0
+-
+ec2-35-181-87-238.eu-west-3.compute.amazonaws.com
+0 6 0 1875 1 1621049218
+/
+243.157.199.181.ros.express.com.ar
+0 2 1 47849 0 0
+-
+host-181-199-59-165.ecua.net.ec
+0 1 1 47553 0 0
+-
+ec2-34-215-69-55.us-west-2.compute.amazonaws.com
+0 12 0 3654 2 1621213995
+/
+29.35.86.34.bc.googleusercontent.com
+0 1 0 318 1 1621328760
+/
+ip-54-36-148-51.a.ahrefs.com
+0 1 1 6899 1 1620937851
+/
+crawl26.bl.semrush.com
+0 1 0 299 0 0
+-
+client-190-94-178-126.dynamic.servirnet.com.178.94.190.in-addr.arpa
+0 1 1 47553 0 0
+-
+static.106.51.63.178.clients.your-server.de
+0 2 0 588 2 1621031536
+-
+host-181-199-59-211.ecua.net.ec
+0 2 1 47849 0 0
+-
+unidentifiable.mixsumo.org
+0 84 0 27812 23 1621231489
+-
+ec2-3-8-68-2.eu-west-2.compute.amazonaws.com
+0 6 0 1827 1 1620112577
+/
+ip-54-36-148-56.a.ahrefs.com
+0 1 1 6899 1 1620554154
+/
+ninja-crawler56.webmeup.com
+0 20 9 67821 5 1620510715
+-
+ip-195-154-122-120.a.ahrefs.com
+0 8 8 460514 0 0
+-
+crawl35.bl.semrush.com
+0 1 0 294 1 1620381386
+/
+ec2-44-233-249-136.us-west-2.compute.amazonaws.com
+0 1 0 296 0 0
+-
+93-158-161-68.spider.yandex.com
+0 1 0 299 0 0
+-
+crawl-66-249-70-125.googlebot.com
+0 1 0 298 0 0
+-
+ec2-34-209-34-93.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621302282
+/
+ip-54-36-148-178.a.ahrefs.com
+0 1 1 6899 1 1620662802
+/
+212.227.210.241
+0 5 0 1607 0 0
+-
+10.40.199.35.bc.googleusercontent.com
+0 18 3 25433 1 1620002281
+/
+130-68-188-190.cab.prima.net.ar
+0 11 10 933622 1 1621002653
+/
+147.124.222.63
+0 1 0 289 0 0
+-
+ec2-34-251-241-226.eu-west-1.compute.amazonaws.com
+0 6 0 1961 1 1620639157
+/
+fwdproxy-nao-010.fbsv.net
+0 1 1 8925 1 1620746433
+/neurofi.htm
+107-0-41-123-ip-static.hfc.comcastbusiness.net
+0 12 1 10320 2 1619971260
+/
+ec2-54-201-180-151.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620436463
+/
+google-proxy-66-249-83-33.google.com
+0 1 1 6899 1 1620248203
+/
+bb168165.virtua.com.br
+0 2 1 188979 0 0
+-
+ip-54-36-148-34.a.ahrefs.com
+0 1 0 295 0 0
+-
+ip-54-36-148-103.a.ahrefs.com
+0 1 1 6899 1 1621056209
+/
+ip-54-36-149-66.a.ahrefs.com
+0 1 1 6899 1 1620507944
+/
+40.117.249.53
+0 20 3 26065 1 1620809444
+/
+182.120.167.190.d.dyn.codetel.net.do
+0 2 1 526635 0 0
+-
+msnbot-40-77-167-54.search.msn.com
+0 3 0 889 0 0
+-
+ec2-52-60-189-115.ca-central-1.compute.amazonaws.com
+0 6 0 1913 1 1620349545
+/
+ip-54-36-148-82.a.ahrefs.com
+0 1 1 6899 1 1620527965
+/
+crawl-66-249-70-52.googlebot.com
+0 1 0 296 1 1621270717
+-
+ns1.boyolali.go.id
+0 1 0 302 0 0
+-
+petalbot-114-119-155-210.petalsearch.com
+0 1 0 295 0 0
+-
+srv51.hostserv.co.za
+0 1 0 301 0 0
+-
+cmodem.138.94.13-102.wirenet.com.ar
+0 2 1 47849 0 0
+-
+host243.170-51-201.telmex.net.ar
+0 11 10 933622 1 1621372104
+/
+crawl22.bl.semrush.com
+0 1 1 4829 1 1621292281
+/cv.html
+ec2-52-12-226-13.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620004647
+/
+google-proxy-66-249-80-126.google.com
+0 3 1 7491 1 1620420122
+/
+cloud.census.shodan.io
+0 5 0 1590 1 1620124028
+/
+102.128.141.31
+0 2 2 11470 1 1620658676
+/tesis.html
+136.ip-139-99-45.eu
+0 1 0 301 0 0
+-
+200.80.226.77
+0 2 1 375651 0 0
+-
+162.210.192.116
+0 2 1 7188 1 1620194598
+/
+mixrank-dmarc.sjc2.atlanticmetro.net
+0 10 5 32495 1 1621190222
+-
+1.15.86.54
+0 1 0 304 0 0
+-
+ns3369612.ip-37-187-91.eu
+0 2 0 602 0 0
+-
+82.156.185.91
+0 1 1 6899 1 1621212375
+/
+67.207.88.6
+0 1 1 6899 1 1619872155
+/
+ec2-34-221-234-205.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621215725
+/
+191.116.38.65
+0 1 1 47553 0 0
+-
+ec2-18-237-134-196.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620609782
+/
+92.118.160.17.netsystemsresearch.com
+0 1 1 6899 1 1621054468
+/
+ec2-34-221-29-250.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621300773
+/
+45.232.12.203
+0 2 1 47849 0 0
+-
+box2118.bluehost.com
+0 1 0 297 1 1620926140
+-
+186.12.116.8
+0 2 1 526635 0 0
+-
+187.253.123.130.cable.dyn.cableonline.com.mx
+0 2 1 126497 0 0
+-
+185.220.101.20
+0 1 0 307 0 0
+-
+ip-54-36-148-134.a.ahrefs.com
+0 1 0 299 0 0
+-
+msnbot-40-77-167-41.search.msn.com
+0 1 0 299 0 0
+-
+ns546531.ip-158-69-252.net
+0 1 1 6899 1 1620869703
+/
+ec2-44-229-34-211.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620522328
+/
+179-79-169-181.fibertel.com.ar
+0 1 1 47553 0 0
+-
+crawl-66-249-73-112.googlebot.com
+0 4 0 1186 2 1620650081
+-
+190.239.201.190
+0 2 1 47849 0 0
+-
+da-www06.ballou.se
+0 1 0 304 1 1620811448
+-
+ip-54-36-149-3.a.ahrefs.com
+0 1 1 6899 1 1620141233
+/
+ip-54-36-148-187.a.ahrefs.com
+0 2 1 7194 1 1621026090
+/
+100-81.119.185.ip.idealhosting.net.tr
+0 18 14 90586 2 1620731155
+-
+fwdproxy-prn-120.fbsv.net
+0 1 0 301 0 0
+-
+msnbot-40-77-167-50.search.msn.com
+0 1 0 295 0 0
+-
+ec2-34-216-40-54.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621041878
+/
+179.6.211.213
+0 2 1 47849 0 0
+-
+petalbot-114-119-152-171.petalsearch.com
+0 1 0 295 0 0
+-
+chin.weevilman.com
+0 2 0 578 0 0
+-
+203-0-245-190.fibertel.com.ar
+0 2 1 1453333 0 0
+-
+121.5.147.119
+0 1 1 19032 0 0
+-
+121.5.219.20
+0 2 2 8203 1 1620613325
+/
+39.103.227.160
+0 2 0 610 0 0
+-
+fetcher3-1.go.mail.ru
+0 2 1 7194 1 1621241378
+/
+47.74.17.225
+0 1 0 302 0 0
+-
+118.24.101.35
+0 21 20 138281 1 1620583163
+/
+ip-54-36-149-107.a.ahrefs.com
+0 2 1 7198 1 1621130400
+/
+185.36.208.116.dyn.user.borecom.com
+0 2 1 53752 0 0
+-
+ip-54-36-149-75.a.ahrefs.com
+0 1 1 6899 1 1620050697
+/
+ip-54-36-148-160.a.ahrefs.com
+0 1 1 6899 1 1620351234
+/
+52.125.136.0
+0 4 0 1298 0 0
+-
+msnbot-207-46-13-104.search.msn.com
+0 17 0 4768 13 1621029540
+-
+r-213-5-255-80.consumer-pool.prcdn.net
+0 1 0 289 0 0
+-
+ec2-34-209-105-222.us-west-2.compute.amazonaws.com
+0 6 0 1875 1 1620359635
+/
+64-240-31-181.fibertel.com.ar
+0 9 9 929810 1 1620667488
+/
+crawl-66-249-79-40.googlebot.com
+0 1 1 175554 0 0
+-
+ec2-13-232-96-15.ap-south-1.compute.amazonaws.com
+0 6 0 1961 1 1620111819
+/
+ec2-18-237-32-226.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620609626
+/
+petalbot-114-119-130-31.petalsearch.com
+0 4 4 29320 4 1621294094
+/
+vmi482078.contaboserver.net
+0 1 0 302 0 0
+-
+ec2-54-69-120-250.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620090456
+/
+petalbot-114-119-149-7.petalsearch.com
+0 4 4 22624 4 1620387243
+/neurofi.html
+ip-54-36-148-21.a.ahrefs.com
+0 3 2 14097 2 1620802012
+/
+18.130.96.34.bc.googleusercontent.com
+0 1 0 318 1 1620730207
+/
+ec2-34-212-134-94.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620004610
+/
+saserver.cloudhostingforlinux.com
+0 1 0 318 0 0
+-
+123.245.26.135
+0 1 1 6899 1 1620523176
+/
+crawl-66-249-64-42.googlebot.com
+0 1 0 299 0 0
+-
+srv10413.dus3e.dedi.server-hosting.expert
+0 10 3 22895 2 1621086895
+/
+34.subnet180-250-28.speedy.telkom.net.id
+0 1 0 300 0 0
+-
+host214.186-153-228.telecom.net.ar
+0 2 1 47849 0 0
+-
+petalbot-114-119-141-51.petalsearch.com
+0 2 2 11463 2 1621321719
+/reflex.html
+msnbot-40-77-167-105.search.msn.com
+0 6 1 54641 4 1621329174
+-
+ec2-52-12-98-211.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620523415
+/
+175.44.42.208
+0 2 2 76496 1 1620325318
+/
+ip-54-36-149-58.a.ahrefs.com
+0 1 0 295 0 0
+-
+ip-54-36-148-74.a.ahrefs.com
+0 1 1 6899 1 1620330681
+/
+static-51-176-7-89.ipcom.comunitel.net
+0 2 1 47849 0 0
+-
+crawl-66-249-69-48.googlebot.com
+0 2 0 588 1 1620543952
+-
+ip-54-36-148-191.a.ahrefs.com
+0 2 2 15824 2 1620536696
+/neurofi.htm
+200.68.128.55
+0 3 3 95432 0 0
+-
+190.185.190.103
+0 1 1 47553 0 0
+-
+2.57.122.148
+0 1 0 289 0 0
+-
+ec2-54-178-182-46.ap-northeast-1.compute.amazonaws.com
+0 6 0 1913 1 1620127808
+/
+181.176.99.21
+0 2 1 47849 0 0
+-
+petalbot-114-119-146-77.petalsearch.com
+0 1 0 295 0 0
+-
+hydra01.hacce.com
+0 1 0 301 0 0
+-
+ip-54-36-148-7.a.ahrefs.com
+0 1 0 295 0 0
+-
+ip-54-36-148-79.a.ahrefs.com
+0 1 0 299 0 0
+-
+msnbot-157-55-39-17.search.msn.com
+0 2 2 101380 0 0
+-
+190.233.121.61
+0 10 9 469735 1 1620675159
+/neurofi.html
+ip-168-119-68-176.a.ahrefs.com
+0 112 112 6447196 0 0
+-
+dsl-201-103-96-53-dyn.prod-infinitum.com.mx
+0 2 1 47849 0 0
+-
+ip-54-36-149-31.a.ahrefs.com
+0 1 1 6899 1 1620042617
+/
+c950010b.virtua.com.br
+0 10 9 469735 1 1620143355
+/neurofi.html
+ip-54-36-148-196.a.ahrefs.com
+0 1 1 6899 1 1620972339
+/
+27.115.124.38
+0 4 4 132150 0 0
+-
+66.175.236.78
+0 1 1 6899 1 1619925372
+/
+204-250-247-190.fibertel.com.ar
+0 15 14 2774603 1 1620051765
+/otros.html
+cp08.machighway.com
+0 1 0 301 1 1620689426
+-
+192.56.107.190.dyn.supernet.com.bo
+0 2 2 95106 0 0
+-
+seobeo.fvds.ru
+0 2 1 7190 1 1620056859
+/
+190.236.251.203
+0 2 1 466567 0 0
+-
+ip-54-36-149-36.a.ahrefs.com
+0 1 1 6899 1 1620902936
+/
+186.0.163.42
+0 2 1 208102 0 0
+-
+ip-54-36-148-121.a.ahrefs.com
+0 1 1 6899 1 1620091135
+/
+185.217.117.173
+0 71 2 34229 1 1620680598
+/
+ip-54-36-149-84.a.ahrefs.com
+0 1 0 295 0 0
+-
+198.50.136.166
+0 1 0 301 0 0
+-
+ns513644.ip-192-99-18.net
+0 6 5 78539 1 1621142610
+-
+158.101.108.23
+0 2 1 7188 1 1620644458
+/
+102.241.185.35.bc.googleusercontent.com
+0 1 1 8925 1 1620839138
+/neurofi.html
+108-9-171-181.fibertel.com.ar
+0 2 1 47849 0 0
+-
+210.99.31.136
+0 1 1 6899 1 1620632070
+/
+22.35.86.34.bc.googleusercontent.com
+0 1 0 318 1 1621050554
+/
+static.185.59.44.23.netiyi.com
+0 1 0 301 0 0
+-
+ec2-54-188-97-87.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620955758
+/
+ip-54-36-148-174.a.ahrefs.com
+0 2 2 13798 2 1620928664
+/
+static.68.62.55.162.clients.your-server.de
+0 1 1 1453037 0 0
+-
+179.56.83.45
+0 2 1 526635 0 0
+-
+crawl38.bl.semrush.com
+0 1 0 299 1 1619929601
+-
+ec2-34-241-77-13.eu-west-1.compute.amazonaws.com
+0 6 1 8411 1 1620368463
+/
+petalbot-114-119-154-161.petalsearch.com
+0 1 0 295 0 0
+-
+23.100.232.233
+0 9 9 1918960 1 1619894887
+/neurofi.htm
+petalbot-114-119-146-255.petalsearch.com
+0 1 0 295 0 0
+-
+190.238.208.46
+0 2 1 47849 0 0
+-
+crawl-66-249-73-116.googlebot.com
+0 8 2 19630 2 1620650083
+-
+190.57.237.115
+0 1 1 47553 0 0
+-
+168.196.201.47
+0 2 1 47849 0 0
+-
+msnbot-40-77-167-48.search.msn.com
+0 1 0 295 0 0
+-
+208-231.static.spheral.ru
+0 2 2 6899 1 1619864114
+/
+ec2-34-236-202-207.compute-1.amazonaws.com
+0 6 0 1913 1 1620385867
+/
+41.203.233.35.bc.googleusercontent.com
+0 1 0 311 0 0
+-
+host254.181-99-85.telecom.net.ar
+0 2 1 47849 0 0
+-
+ec2-18-236-199-236.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620178620
+/
+54.red-37-10-128.dynamicip.rima-tde.net
+0 11 1 12037 1 1620458046
+/neurofi.htm
+fetcher14-2.go.mail.ru
+0 2 0 591 0 0
+-
+ip-54-36-149-19.a.ahrefs.com
+0 1 1 6899 1 1620120904
+/
+msnbot-207-46-13-0.search.msn.com
+0 1 0 295 0 0
+-
+27.115.124.70
+0 9 9 807282 1 1621177306
+/
+customer-189-216-142-65.cablevision.net.mx
+0 3 2 95402 0 0
+-
+lordmonkey.net
+0 3 0 990 0 0
+-
+ip-54-36-148-35.a.ahrefs.com
+0 1 1 6899 1 1621079277
+/
+ip-54-36-148-83.a.ahrefs.com
+0 1 1 6899 1 1620082230
+/
+ip-54-36-148-152.a.ahrefs.com
+0 1 1 6899 1 1620758900
+/
+crawl16.bl.semrush.com
+0 1 1 8925 1 1620952032
+/neurofi.html
+13.red-81-35-188.dynamicip.rima-tde.net
+0 2 1 53752 0 0
+-
+196.18.150.233
+0 14 12 1522071 1 1621309719
+/otros.html
+fetcher14-5.go.mail.ru
+0 1 0 295 0 0
+-
+fetcher2-3.go.mail.ru
+0 2 0 590 0 0
+-
+ec2-35-162-99-243.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620264310
+/
+28.99.209.181.in-addr.arpa
+0 1 1 47553 0 0
+-
+ip-54-36-148-214.a.ahrefs.com
+0 1 1 6899 1 1620027163
+/
+229.177.255.148.d.dyn.claro.net.do
+0 1 0 296 0 0
+-
+200.117.92.61
+0 1 1 47553 0 0
+-
+65.141.198.104.bc.googleusercontent.com
+0 1 0 313 0 0
+-
+petalbot-114-119-138-32.petalsearch.com
+0 1 0 295 0 0
+-
+vmi328226.contaboserver.net
+0 1 0 301 0 0
+-
+66.175.233.119
+0 1 0 296 1 1619925519
+/
+77-88-5-71.spider.yandex.com
+0 6 3 21586 3 1621359108
+/
+ec2-34-203-210-174.compute-1.amazonaws.com
+0 1 1 6899 1 1620305384
+/
+20.35.86.34.bc.googleusercontent.com
+0 1 1 6899 1 1620932427
+/
+190.238.133.213
+0 1 0 0 0 0
+-
+170.239.180.50
+0 1 1 47553 0 0
+-
+24-108-189-190.cab.prima.net.ar
+0 2 1 47849 0 0
+-
+ns503179.ip-192-99-34.net
+0 1 0 298 1 1620112387
+-
+crawl-66-249-64-46.googlebot.com
+0 1 0 303 0 0
+-
+190-174-107-129.speedy.com.ar
+0 2 1 47849 0 0
+-
+cpe-181-45-117-10.telecentro-reversos.com.ar
+0 1 1 47553 0 0
+-
+31.35.86.34.bc.googleusercontent.com
+0 1 1 6899 1 1620393890
+/
+ec2-13-124-222-242.ap-northeast-2.compute.amazonaws.com
+0 7 0 2198 1 1620135696
+/
+5.188.48.12
+0 9 6 632768 3 1621190066
+/
+103.111.30.40
+0 2 0 619 0 0
+-
+5.188.48.14
+0 18 12 1039710 6 1620885664
+/
+ip-54-36-148-135.a.ahrefs.com
+0 1 1 6899 1 1620741140
+/
+visit.keznews.com
+0 28 24 3044142 2 1620384415
+/otros.html
+crawl-prod-9.babbar.eu
+0 22 6 40160 2 1621170297
+/neurofi.htm
+179-38-146-173.speedy.com.ar
+0 1 1 47553 0 0
+-
+server266.web-hosting.com
+0 1 0 301 0 0
+-
+petalbot-114-119-159-216.petalsearch.com
+0 6 4 30228 5 1621149041
+-
+ip-54-36-149-103.a.ahrefs.com
+0 1 1 6899 1 1620111677
+/
+b1618.entelchile.net
+0 2 1 526635 0 0
+-
+ip-54-36-149-4.a.ahrefs.com
+0 1 0 299 0 0
+-
+ip-54-36-148-188.a.ahrefs.com
+0 1 1 8018 1 1619990692
+/otros.html
+43.156.199.181.ros.express.com.ar
+0 2 1 47849 0 0
+-
+cpe-181-46-66-173.telecentro-reversos.com.ar
+0 2 1 47849 0 0
+-
+62.232.216.220
+0 1 1 6899 1 1621328857
+/
+ec2-18-237-151-124.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620004588
+/
+ec2-34-223-65-220.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620854725
+/
+181.160.246.250
+0 2 1 47849 0 0
+-
+dsl-189-169-109-201-dyn.prod-infinitum.com.mx
+0 10 9 469735 1 1620607447
+/neurofi.html
+136.152.199.181.ros.express.com.ar
+0 2 1 47849 0 0
+-
+hn.kd.ny.adsl
+0 56 56 3384674 17 1621299282
+/
+ip-54-36-149-9.a.ahrefs.com
+0 1 1 6899 1 1620732772
+/
+190.233.208.132
+0 2 1 47849 0 0
+-
+ip-54-36-148-44.a.ahrefs.com
+0 1 1 8018 1 1620611567
+/otros.html
+crawl-66-249-64-50.googlebot.com
+0 47 28 4732082 10 1621349064
+-
+static.88-198-36-62.clients.your-server.de
+0 1 0 302 1 1619860265
+-
+fwdproxy-frc-038.fbsv.net
+0 1 1 8925 1 1620797917
+/neurofi.htm
+172.111.219.86
+0 1 0 0 1 1620010715
+-
+138.97.179.22
+0 2 1 375651 0 0
+-
+ip-54-36-148-49.a.ahrefs.com
+0 2 1 7198 1 1620587274
+/
+fpcpscplsk03.websitesource.com
+0 1 0 307 0 0
+-
+ec2-34-224-17-90.compute-1.amazonaws.com
+0 2 1 7194 1 1621126993
+/
+ip-54-36-148-97.a.ahrefs.com
+0 1 1 6899 1 1620839398
+/
+ns1003054.ip-92-204-129.us
+0 1 0 318 0 0
+-
+dsl-189-156-7-172-dyn.prod-infinitum.com.mx
+0 1 1 526339 0 0
+-
+crawl-66-249-65-16.googlebot.com
+0 1 0 299 0 0
+-
+ec2-18-197-125-181.eu-central-1.compute.amazonaws.com
+0 6 0 1875 1 1620105764
+/
+216.244.66.195
+0 10 2 740296 1 1620042900
+-
+petalbot-114-119-154-5.petalsearch.com
+0 1 0 295 0 0
+-
+ec2-3-133-156-3.us-east-2.compute.amazonaws.com
+0 13 11 485193 1 1620110058
+/
+ip-54-36-148-228.a.ahrefs.com
+0 1 1 4564 1 1621095513
+/reflex.html
+ip-54-36-148-22.a.ahrefs.com
+0 1 1 6899 1 1620017193
+/
+fixed-187-189-251-50.totalplay.net
+0 1 1 47553 0 0
+-
+47-24-103-191.iparatodos.com.ar
+0 2 1 47849 0 0
+-
+zl-ams-nl-gp6-wk112.internet-census.org
+0 1 0 318 1 1620366705
+/
+ec2-34-219-186-125.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620179051
+/
+petalbot-114-119-150-215.petalsearch.com
+0 1 0 295 0 0
+-
+192.141.178.1
+0 2 1 47849 0 0
+-
+103.221.232.78
+0 2 2 11470 1 1621360268
+/tesis.html
+42.193.45.103
+0 1 1 189045 0 0
+-
+ec2-54-184-129-241.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620351884
+/
+3-138-77-186.enitel.net.ni
+0 1 1 47553 0 0
+-
+crawl-66-249-66-48.googlebot.com
+0 2 2 179657 0 0
+-
+petalbot-114-119-130-3.petalsearch.com
+0 4 4 28413 4 1621365732
+/otros.html
+175.188.245.35.bc.googleusercontent.com
+0 2 1 526673 0 0
+-
+petalbot-114-119-158-220.petalsearch.com
+0 1 0 295 0 0
+-
+host138.181-92-26.telecom.net.ar
+0 2 1 47849 0 0
+-
+213.181.73.12
+0 10 9 469735 1 1621154682
+/neurofi.html
+li237-131.members.linode.com
+0 11 2 16464 1 1620848388
+-
+ip-54-36-149-32.a.ahrefs.com
+0 1 1 6899 1 1620715607
+/
+crawl-66-249-65-20.googlebot.com
+0 1 0 338 1 1620618546
+-
+180.163.220.66
+0 1 1 6899 1 1620465186
+/
+180.163.220.67
+0 6 6 383731 0 0
+-
+180.163.220.68
+0 4 4 202665 1 1620895155
+/
+petalbot-114-119-132-250.petalsearch.com
+0 1 0 295 0 0
+-
+ec2-34-210-43-3.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620781809
+/
+ec2-54-202-193-37.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621214317
+/
+petalbot-114-119-134-79.petalsearch.com
+0 1 0 295 0 0
+-
+143.0.65.10
+0 5 5 137469 0 0
+-
+ip-54-36-148-53.a.ahrefs.com
+0 1 1 6899 1 1619925854
+/
+ip-54-36-148-122.a.ahrefs.com
+0 1 1 6899 1 1620962189
+/
+93.158.91.187
+0 1 0 295 0 0
+-
+mail1.visionvisionsatelital.com.co
+0 1 1 131298 0 0
+-
+h2931890.stratoserver.net
+0 2 1 7188 1 1620742770
+/
+google-proxy-66-249-80-100.google.com
+0 1 1 6899 1 1620168192
+/
+zl-lax-us-gp6-wk109.internet-census.org
+0 1 0 318 1 1621340554
+/
+ipv4-clie-162-3.researchsrl.com.ar
+0 1 1 47553 0 0
+-
+host99.186-158-51.telmex.net.ar
+0 1 1 47553 0 0
+-
+62.117.237.17.dyn.user.ono.com
+0 8 7 1792258 0 0
+-
+crawl-66-249-66-52.googlebot.com
+0 5 3 140434 2 1620449533
+/
+ip-54-36-148-175.a.ahrefs.com
+0 1 1 6899 1 1621234138
+/
+li520-41.members.linode.com
+0 11 2 16464 1 1620845302
+-
+petalbot-114-119-132-153.petalsearch.com
+0 1 0 295 0 0
+-
+ip-208-109-8-126.ip.secureserver.net
+0 1 0 318 0 0
+-
+ip-54-36-149-15.a.ahrefs.com
+0 1 1 6899 1 1620895422
+/
+172-245-103-133-host.colocrossing.com
+0 2 2 11470 1 1620299339
+/tesis.html
+93.158.90.164
+0 3 1 7489 1 1621312648
+/
+ec2-52-24-149-118.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621128298
+/
+93.158.90.168
+0 1 0 292 0 0
+-
+cpe-186-22-16-129.telecentro-reversos.com.ar
+0 2 1 47849 0 0
+-
+fetcher15-2.go.mail.ru
+0 1 0 296 0 0
+-
+208.84.155.70
+0 2 2 11470 1 1620075581
+/tesis.html
+dsl-187-135-135-36-dyn.prod-infinitum.com.mx
+0 5 5 4262654 0 0
+-
+ip-54-36-148-36.a.ahrefs.com
+0 1 1 6899 1 1619913102
+/
+128-23-40-70.musc.edu
+0 2 1 188979 0 0
+-
+130.61.46.214
+0 22 3 26646 1 1620678991
+/
+155.red-83-56-152.dynamicip.rima-tde.net
+0 11 10 933622 1 1621226033
+/
+ip-54-36-148-210.a.ahrefs.com
+0 1 0 295 0 0
+-
+crawl19.bl.semrush.com
+0 1 1 8018 1 1621152791
+/otros.html
+host-181-199-59-80.ecua.net.ec
+0 2 1 47849 0 0
+-
+ec2-34-220-144-134.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1619919225
+/
+petalbot-114-119-147-60.petalsearch.com
+0 1 0 295 0 0
+-
+petalbot-114-119-136-51.petalsearch.com
+0 5 3 22103 5 1620807952
+-
+24.227.28.17
+0 2 1 47849 0 0
+-
+h2931271.stratoserver.net
+0 2 1 7188 1 1620578582
+/
+ip-107-180-88-41.ip.secureserver.net
+0 1 0 301 0 0
+-
+petalbot-114-119-141-83.petalsearch.com
+0 1 0 295 0 0
+-
+host17.186-111-154.telecom.net.ar
+0 1 1 47553 0 0
+-
+infong146.clienthosting.eu
+0 1 0 294 1 1619852605
+-
+186.12.16.154
+0 1 1 47553 0 0
+-
+ip-54-36-148-158.a.ahrefs.com
+0 1 1 6899 1 1620833734
+/
+dsl-187-200-243-121-dyn.prod-infinitum.com.mx
+0 2 1 47849 0 0
+-
+host-170.81.230.179.agilnet.com.ar
+0 2 1 47849 0 0
+-
+host-177-232-89-142.static.metrored.net.mx
+0 1 1 175554 0 0
+-
+host127.181-12-165.telecom.net.ar
+0 1 1 47553 0 0
+-
+static.197.189.69.159.clients.your-server.de
+0 11 8 52487 1 1621225474
+-
+179.57.46.19
+0 2 1 526635 0 0
+-
+82.165.119.192
+0 19 1 12452 2 1621227893
+/
+crawl2.bl.semrush.com
+0 2 1 5128 1 1621129993
+/cv.html
+ss20-188-45-5.is.net.ar
+0 2 1 47849 0 0
+-
+fetcher3-6.go.mail.ru
+0 1 0 295 0 0
+-
+ec2-54-190-167-140.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620522624
+/
+host190.102.240.20.dynamic.pacificonet.cl
+0 7 6 1915990 0 0
+-
+host92.181-13-183.telecom.net.ar
+0 1 1 47553 0 0
+-
+42.192.17.155
+0 2 2 258642 0 0
+-
+ip-195-154-122-158.a.ahrefs.com
+0 88 88 5065654 0 0
+-
+40.88.21.235
+0 6 3 21585 3 1621101300
+/
+ec2-34-214-230-197.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1620264645
+/
+crawl-66-249-70-50.googlebot.com
+0 2 0 592 1 1621297984
+-
+ec2-54-176-188-51.us-west-1.compute.amazonaws.com
+0 12 0 3788 2 1620640063
+/
+23.162.77.34.bc.googleusercontent.com
+0 1 1 6899 1 1620181003
+/
+102.157.199.181.ros.express.com.ar
+0 1 1 47553 0 0
+-
+180.163.220.3
+0 4 4 212897 0 0
+-
+180.163.220.4
+0 2 2 467217 0 0
+-
+180.163.220.5
+0 3 3 593243 0 0
+-
+103-58-168-152.fibertel.com.ar
+0 2 1 466567 0 0
+-
+static.187.11.119.168.clients.your-server.de
+0 2 0 587 2 1620084936
+-
+84.126.83.110.dyn.user.ono.com
+0 2 1 53752 0 0
+-
+msnbot-40-77-167-47.search.msn.com
+0 1 0 295 0 0
+-
+ip-54-36-149-99.a.ahrefs.com
+0 1 1 6899 1 1621017733
+/
+ip-54-36-149-0.a.ahrefs.com
+0 1 1 6899 1 1620569056
+/
+ip-54-36-148-241.a.ahrefs.com
+0 30 30 202815 30 1621358156
+/
+cpe-186-22-245-54.telecentro-reversos.com.ar
+0 2 1 47849 0 0
+-
+ec2-54-200-101-168.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621129589
+/
+ec2-54-214-125-29.us-west-2.compute.amazonaws.com
+0 2 1 7195 1 1620697813
+/
+ec2-52-52-190-187.us-west-1.compute.amazonaws.com
+0 7 0 2284 1 1620139124
+/
+152.166.132.230
+0 1 1 526339 0 0
+-
+ns303394.ip-94-23-206.eu
+0 1 0 326 0 0
+-
+petalbot-114-119-133-17.petalsearch.com
+0 1 0 295 0 0
+-
+192.141.244.106
+0 2 2 95106 0 0
+-
+118.151.106.34.bc.googleusercontent.com
+0 21 3 26383 1 1620686134
+/
+ip-54-36-148-246.a.ahrefs.com
+0 1 1 6899 1 1619884897
+/
+static.91.69.119.168.clients.your-server.de
+0 2 0 596 2 1621031546
+-
+122.114.76.148
+0 1 0 301 0 0
+-
+cpe-186-22-17-238.telecentro-reversos.com.ar
+0 2 1 188979 0 0
+-
+host186.181-9-177.telecom.net.ar
+0 4 2 95698 0 0
+-
+ec2-3-216-94-246.compute-1.amazonaws.com
+0 5 1 8070 1 1620082937
+/
+ip-54-36-148-114.a.ahrefs.com
+0 1 1 6899 1 1620770753
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ip-54-36-148-98.a.ahrefs.com
+0 1 0 299 0 0
+-
+ninja-crawler113.webmeup.com
+0 4 0 1183 1 1621345670
+-
+25.162.77.34.bc.googleusercontent.com
+0 1 1 6899 1 1621326530
+/
+msnbot-157-55-39-100.search.msn.com
+0 1 0 296 1 1621309078
+-
+ip-54-36-148-171.a.ahrefs.com
+0 1 1 6899 1 1621321906
+/
+ip-54-36-148-15.a.ahrefs.com
+0 1 1 6899 1 1621346201
+/
+82-125-137-186.fibertel.com.ar
+0 2 1 47849 0 0
+-
+crawl1.bl.semrush.com
+0 1 0 300 0 0
+-
+crawl14.bl.semrush.com
+0 1 1 4829 1 1621332818
+/cv.html
+host120.181-99-129.telecom.net.ar
+0 2 1 47849 0 0
+-
+crawl-66-249-64-48.googlebot.com
+0 1 0 296 0 0
+-
+ec2-99-79-67-91.ca-central-1.compute.amazonaws.com
+0 1 1 0 1 1621362931
+/
+crawl-66-249-64-52.googlebot.com
+0 2 0 602 0 0
+-
+fetcher2-4.go.mail.ru
+0 1 1 6899 1 1621335189
+/
+dsl-187-146-98-162-dyn.prod-infinitum.com.mx
+0 1 1 126201 0 0
+-
+29.35.86.34.bc.googleusercontent.com
+0 1 0 318 1 1621328760
+/
+crawl26.bl.semrush.com
+0 1 0 299 0 0
+-
+client-190-94-178-126.dynamic.servirnet.com.178.94.190.in-addr.arpa
+0 1 1 47553 0 0
+-
+unidentifiable.mixsumo.org
+0 11 0 3626 0 0
+-
+ec2-34-209-34-93.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621302282
+/
+host243.170-51-201.telmex.net.ar
+0 11 10 933622 1 1621372104
+/
+ec2-34-221-29-250.us-west-2.compute.amazonaws.com
+0 1 1 6899 1 1621300773
+/
+39.103.227.160
+0 1 0 302 0 0
+-
+185.36.208.116.dyn.user.borecom.com
+0 2 1 53752 0 0
+-
+petalbot-114-119-141-51.petalsearch.com
+0 1 1 4564 1 1621321719
+/reflex.html
+msnbot-40-77-167-105.search.msn.com
+0 2 0 597 2 1621329174
+-
+ip-168-119-68-176.a.ahrefs.com
+0 16 16 921028 0 0
+-
+13.red-81-35-188.dynamicip.rima-tde.net
+0 2 1 53752 0 0
+-
+196.18.150.233
+0 14 12 1522071 1 1621309719
+/otros.html
+fetcher2-3.go.mail.ru
+0 1 0 295 0 0
+-
+77-88-5-71.spider.yandex.com
+0 2 1 7194 1 1621359108
+/
+190.238.133.213
+0 1 0 0 0 0
+-
+190-174-107-129.speedy.com.ar
+0 2 1 47849 0 0
+-
+cpe-181-46-66-173.telecentro-reversos.com.ar
+0 2 1 47849 0 0
+-
+62.232.216.220
+0 1 1 6899 1 1621328857
+/
+hn.kd.ny.adsl
+0 1 1 6899 1 1621299282
+/
+190.233.208.132
+0 2 1 47849 0 0
+-
+crawl-66-249-64-50.googlebot.com
+0 2 0 584 1 1621349064
+-
+192.141.178.1
+0 2 1 47849 0 0
+-
+103.221.232.78
+0 2 2 11470 1 1621360268
+/tesis.html
+petalbot-114-119-130-3.petalsearch.com
+0 1 1 8018 1 1621365732
+/otros.html
+zl-lax-us-gp6-wk109.internet-census.org
+0 1 0 318 1 1621340554
+/
+93.158.90.164
+0 3 1 7489 1 1621312648
+/
+93.158.90.168
+0 1 0 292 0 0
+-
+128-23-40-70.musc.edu
+0 2 1 188979 0 0
+-
+host17.186-111-154.telecom.net.ar
+0 1 1 47553 0 0
+-
+host-177-232-89-142.static.metrored.net.mx
+0 1 1 175554 0 0
+-
+crawl-66-249-70-50.googlebot.com
+0 2 0 592 1 1621297984
+-
+102.157.199.181.ros.express.com.ar
+0 1 1 47553 0 0
+-
+84.126.83.110.dyn.user.ono.com
+0 2 1 53752 0 0
+-
+ip-54-36-148-241.a.ahrefs.com
+0 2 2 13798 2 1621358156
+/
+host186.181-9-177.telecom.net.ar
+0 2 1 47849 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://co.search.yahoo.com/
+0 1
+https://search.becovi.com/
+0 1
+http://neurofilosofia.com.ar/
+0 494
+- (Direct Request)
+0 1643
+http://neurofilosofia.com.ar/tesis.html
+0 3
+http://neurofilosofia.com.ar/textos/Buscando el sentido.pdf
+0 1
+http://neurofilosofia.com.ar/neurofi.html
+0 40
+http://neurofilosofia.com.ar/Materialdidactico/Conocimiento a priori en Kant.pdf
+0 5
+www.google.com
+0 7
+https://pe.search.yahoo.com/
+0 1
+http://www.neurofilosofia.com.ar/
+0 67
+http://neurofilosofia.com.ar/textos/Las actitudes intencionales.pdf
+0 11
+http://neurofilosofia.com.ar/reflex.html
+0 1
+http://neurofilosofia.com.ar/textos/Neonaturalismo epistemologico.pdf
+0 1
+http://neurofilosofia.com.ar/favicon.ico
+0 4
+http://www.neurofilosofia.com.ar/vendor/phpunit/phpunit/phpunit.xml
+0 1
+http://forum.neurofilosofia.com.ar/
+0 15
+http://neurofilosofia.com.ar/Materialdidactico/Programa de Trabajos Practicos1999.pdf
+0 2
+http://neurofilosofia.com.ar/otros.html
+0 1
+http://neurofilosofia.com.ar/textos/La justicia y el concepto.pdf
+0 1
+https://scholar.google.com.br/
+0 1
+http://neurofilosofia.com.ar/Materialdidactico/Programa de Trabajos Practicos.pdf
+0 3
+http://neurofilosofia.com.ar
+0 44
+http://neurofilosofia.com.ar/css/rs_font.css
+0 65
+http://neurofilosofia.com.ar/textos/Disciplinas filosóficas.pdf
+0 64
+http://neurofilosofia.com.ar/neurofi.htm
+0 22
+http://www.google.com.mx/url
+0 3
+http://neurofilosofia.com.ar/textos/El epistemólogo y las neurociencias.pdf
+0 4
+https://es.search.yahoo.com/
+0 2
+http://neurofilosofia.com.ar/textos/Plasticidad neuronal, verdad y lógica.pdf
+0 1
+http://neurofilosofia.com.ar/cv.pdf
+0 2
+http://neurofilosofia.com.ar/textos/Garay etica y desarrollo humano 2016.pdf
+0 8
+https://www.google.com/
+0 142
+http://hije.fineblog.top/
+0 1
+https://www.google.cl/
+0 2
+http://www.neurofilosofia.com.ar/css/rs_font.css
+0 3
+https://scholar.google.es/
+0 6
+https://www.google.es/
+0 1
+http://neurofilosofia.com.ar/tesis.pdf
+0 4
+https://www.google.com
+0 6
+http://neurofilosofia.com.ar/links.htm
+0 1
+http://neurofilosofia.com.ar/textos/Verdad y portadores de verdad en una.pdf
+0 1
+http://neurofilosofia.com.ar/textos/El monstruo neuronal.pdf
+0 1
+http://baidu.com/
+0 7
+http://neurofilosofia.com.ar/vendor/phpunit/phpunit/phpunit.xml
+0 1
+https://www.google.com.pe/
+0 1
+https://scholar.google.com/
+0 8
+http://www.google.com/
+0 85
+http://neurofilosofia.com.ar/imagenes/nueva.jpg
+0 2
+http://hije.fineblog.top/post/71912073/increase-traffic-to-your-wordpress/
+0 1
+https://www.google.com.ar/
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 9; Redmi Note 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 4
+Python-urllib/2.7
+0 1
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; JKM-LX3 Build/HUAWEIJKM-LX3)
+0 1
+Mozilla/5.0 (Linux; Android 11; SM-A217M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 10
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0)
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 4
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 33
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 18
+Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1464.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4086.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 10
+MobileSafari/604.1 CFNetwork/978.0.7 Darwin/18.7.0
+0 70
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.84 Mobile S
+0 8
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://
+0 41
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 1
+curl/7.68.0
+0 1
+Googlebot-Image/1.0
+0 10
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 52
+BaiduSpider
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.4.2661.102 Safari/537.36; 360Spider
+0 17
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 70
+Mozilla/5.0 (Linux; Android 8.1.0; SM-J710MN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+0 1
+Dalvik/2.1.0 (Linux; U; Android 9; JAT-LX3 Build/HUAWEIJAT-LX3)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 2
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 9 Pro MIUI/V12.0.3.0.QJZMIXM)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 12
+Go-http-client/1.1
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4102.0 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 46
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.2 Safari/537.36
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.8
+0 13
+Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 8.1.0; 5033A Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Saf
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E14
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 2
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 11
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 8
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:88.0) Gecko/20100101 Firefox/88.0
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 2
+Dalvik/2.1.0 (Linux; U; Android 9; moto g(6) play Build/PPPS29.55-35-23-7)
+0 1
+Dalvik/2.1.0 (Linux; U; Android 10; SM-A307G Build/QP1A.190711.020)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Dalvik/2.1.0 (Linux; U; Android 9; moto e6 play Build/POAS29.550-132-5)
+0 1
+Mozilla/5.0 (compatible; MixrankBot; crawler@mixrank.com)
+0 10
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4093.3 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 10; SM-A307G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36
+0 9
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E14
+0 2
+Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-A205G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36
+0 4
+Mozilla/5.0 (iPad; CPU OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148 Safari/
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 21
+Mozilla/5.0 (Linux; Android 10; SM-T290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/53
+0 1
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G570M Build/R16NW)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 10; LIO-AN00 Build/HUAWEILIO-AN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4096.0 Safari/537.36
+0 2
+l9tcpid/v1.0.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 20
+Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 14
+Mozilla/5.0 (Linux; Android 10; SM-J610G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+0 1
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.3.0.QJOMIXM)
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+0 1
+Apache-HttpClient/4.5.2 (Java/1.8.0_151)
+0 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.44 Safari/537.36 OPR/69.0.3
+0 6
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 108
+Dalvik/2.1.0 (Linux; U; Android 10; MAR-LX1A Build/HUAWEIMAR-L21A)
+0 1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2376.69 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 88
+Dalvik/2.1.0 (Linux; U; Android 10; SM-A705MN Build/QP1A.190711.020)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2896.3 Safari/537.36
+0 84
+Mozilla/5.0
+0 1
+Mozilla/5.0 (Linux; Android 10; Mi A2 Lite) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.86 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 6
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/89.0.43
+0 9
+Mozilla/5.0 (Linux; Android 9; SM-A105M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.163 Mobile/15
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 6
+Mozilla/5.0 (Linux; Android 10; SM-A307G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+0 1
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 32
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 48
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:82.0) Gecko/20100101 Firefox/82.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:80.0) Gecko/20100101 Firefox/80.0
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J500M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.3131.23 Safari/537.36
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 18
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+0 1
+User-Agent\" \"Mozilla/5.0 (Windows NT 6.1;) Gecko/20100101 Firefox/13.0.1, Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) A
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 563
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 8
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.
+0 14
+WhatsApp/2.21.8.17 A
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+0 1
+userAgent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.
+0 2
+Python-urllib/3.7
+0 1
+Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.
+0 1
+Mozilla/5.0 (Linux; Android 10; MAR-LX3A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G570M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:88.0) Gecko/20100101 Firefox/88.0
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:79.0) Gecko/20100101 Firefox/79.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 3
+curl/7.58.0
+0 1
+python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.24.1.el7.x86_64
+0 6
+Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 58
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; moto e5 Build/OPPS27.91-176-11-5)
+0 2
+Mozilla/5.0 (compatible; Seekport Crawler; http://seekport.com/)
+0 11
+Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 30
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+0 1
+Dalvik/2.1.0 (Linux; U; Android 9; moto e(6) plus Build/PTA29.317-14)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+0 13
+User-Agent\" \"Mozilla/5.0 (Windows NT 6.1;) Gecko/20100101 Firefox/13.0.1, Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) A
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2
+0 1
+Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.34 Safari/537.36 Edg/83.0.478.25
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.517 Safari/537.36
+0 12
+python-requests/2.25.1
+0 74
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 12
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 35
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+0 20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone9,4; U; CPU iPhone OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/1
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 3
+Dalvik/2.1.0 (Linux; U; Android 6.0; ZTE Blade V6 Plus Build/MRA58K)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 1
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-G610M Build/M1AJQ)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+0 1
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; DUB-LX3 Build/HUAWEIDUB-LX3)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 91
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2117.157 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 2
+Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+0 10
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Favicons/2.0; +https://help.mail.ru/webmaster/indexing/robots)
+0 5
+Mozilla/5.0 (Linux; Android 9; SM-A105M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3319.102 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36 Mozilla/5.0 (iPad; U; 
+0 6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 77
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 
+0 11
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile S
+0 55
+Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+0 55
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 12
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 10; SM-T290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 42
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E14
+0 1
+node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+0 1
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 8
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G532M Build/MMB29T)
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3
+0 2
+Mozilla/5.0 (Linux; Android 10; SM-A105M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36
+0 12
+Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)
+0 10
+Dalvik/2.1.0 (Linux; U; Android 10; SM-A205G Build/QP1A.190711.020)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 15
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-A305G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:28.0) Gecko/20100101 Firefox/72.0
+0 1
+lkxscan/v0.1.0 (+https://leakix.net) l9explore/v1.0.0 (+https://github.com/LeakIX/l9explore)
+0 27
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.0 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+0 6
+serpstatbot/2.0 beta (advanced backlink tracking bot; http://serpstatbot.com/; abuse@serpstatbot.com)
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36/iYA9HebN-7
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4093.3 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.130 Mobile 
+0 16
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-A105M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/79.0.39
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:28.0) Gecko/20100101 Firefox/28.0
+0 14
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 6
+Mozilla/5.0 (Linux; Android 8.1.0; SM-J710MN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.3
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Sa
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 18
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
